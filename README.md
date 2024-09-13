@@ -86,5 +86,6 @@ Follow these steps to set up Slack notifications for your application:
    - Now that everything is set up, you can start sending notifications to your Slack channel.
 
   <img src="Reference Snaps/Screenshot_15.png">
+  <img src="Reference Snaps/Screenshot_16.png">
 
  Volla! You have successfully set up Slack Error Notifications for your application.
